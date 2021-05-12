@@ -6,5 +6,5 @@ This budget app is a progressive web application, which means it can be installe
 ![Portfolio Site](images/screenshot.png)
 
 
-[Progressive Budget](https://bennsantos20.github.io/Horizon-Code-Refractor/)
+[Progressive Budget](https://fierce-mountain-93326.herokuapp.com/)
 
